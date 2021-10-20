@@ -17,7 +17,8 @@ in order to use this app, runs in the terminal
 # License
 This project is licensed under the MIT license.
 ![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
-#Contributing
+
+# Contributing
 Contributors: N/A
 # Tests
 The following is needed to run the test: Node index.js
