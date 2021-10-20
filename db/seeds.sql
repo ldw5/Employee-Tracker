@@ -11,7 +11,7 @@ VALUES
 INSERT INTO department(department_name, roles_id)
 VALUES 
 ('Coach', '1'),
-('Assisitant','2'),
+('Assistant','2'),
 ('GM','3'),
 ('Player','4'),
 ('Equipment','5');
@@ -22,4 +22,4 @@ VALUES
 ('Assistant Manager', 220000, 2),
 ('GM Manager', 328000, 3),
 ('Player', 435000, 4),
-('Grocery Manager', 83000, 5);
+('Equipment Manager', 83000, 5);
