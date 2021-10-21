@@ -6,7 +6,7 @@ VALUES
 (2, 'Lebron', 'James', '2', '2'),
 (3, 'Charles', 'Barkley', '3', '3'),
 (4, 'Will', 'Smith', '4', '4'),
-(5,'Eddie', 'Murphy', '5', '5'),
+(5,'Eddie', 'Murphy', '5', '5');
 
 INSERT INTO department(department_name, roles_id)
 VALUES 
