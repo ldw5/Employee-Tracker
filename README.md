@@ -1,7 +1,7 @@
 # Employee-Tracker
 https://github.com/ldw5/Employee-Tracker
 # Video walkthrough
-https://watch.screencastify.com/v/NDXYcA7gReGlh5PEKIas
+https://watch.screencastify.com/v/uDNb12jCsYQEG7L7ggev
 # Description
 App allows developers to build a command-line application from scratch to manage a company's employee database, using Node.js, Inquirer, and MySQL.
 # Table of Contents
