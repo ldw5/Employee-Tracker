@@ -1,6 +1,6 @@
 const inquirer = require('inquirer');
 const db = require('./db/connect');
-const mysql = require('mysql');
+const mysql = require('mysql2');
 const express = require('express');
 const { connect } = require('./db');
 const { start } = require('repl');
